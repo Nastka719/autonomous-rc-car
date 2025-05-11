@@ -76,3 +76,5 @@ def gradients(gradient_parameters):
 
     gradient = numpy.append(theta_1_gradient.flatten(), theta_2_gradient.flatten())
     return gradient
+
+#Pierogi dla wszystkich
